@@ -9,3 +9,8 @@
 * opt sens https://aliexpress.ru/item/32886394063.html
 
 SPINDEL DC110v 800W https://aliexpress.ru/item/1005001356468950.html
+
+
+https://youtu.be/4QquvDP9aSU
+
+https://youtu.be/VMW0-LLrZDo
