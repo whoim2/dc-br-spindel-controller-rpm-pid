@@ -1,5 +1,7 @@
 # dc-br-spindel-controller-rpm-pid
 
+![alt text](https://raw.githubusercontent.com/whoim2/dc-br-spindel-controller-rpm-pid/main/photo_2021-07-08_12-33-42.jpg)
+
 * ac220v-dc15v https://aliexpress.ru/item/4000391310693.html
 * L7809CD2T TO-263 https://aliexpress.ru/item/1005002018379261.html
 * TLP250 https://aliexpress.ru/item/33001238483.html
